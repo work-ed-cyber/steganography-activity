@@ -8,8 +8,8 @@ In this steganography lab, you will learn about some of the techniques used to h
 
 # Preparation
 - Setup Environments
--- Log into the US Cyber Range
--- Open the Kali Linux Environment	
+- - Log into the US Cyber Range
+- - Open the Kali Linux Environment	
 
 # Tasks
 There are 100s of steganography tools and methods available. We are going to use Outguess (modifies the least significant bits of the digital media file to embed the message), Steghide (uses data compression and encryption to hide messages in digital media files) and Stegseek (a steganographic brute-force utility used to uncover hidden data inside files, https://github.com/RickdeJager/stegseek). 
